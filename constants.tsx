@@ -15,16 +15,15 @@ export const DONATION_OPTIONS: DonationOption[] = [
 ];
 
 export const TEAM_MEMBERS: TeamMember[] = [
-  { name: "Founder Name", role: "Executive Director", imageUrl: "https://i.pravatar.cc/150?u=1" },
-  { name: "Dr. Medical Lead", role: "Medical Director", imageUrl: "https://i.pravatar.cc/150?u=2" },
-  { name: "Logistics Expert", role: "Supply Chain Lead", imageUrl: "https://i.pravatar.cc/150?u=3" },
-  { name: "Outreach Lead", role: "Partner Relations", imageUrl: "https://i.pravatar.cc/150?u=4" },
-  { name: "Tech Advisor", role: "Operations Technology", imageUrl: "https://i.pravatar.cc/150?u=5" },
-  { name: "Volunteer Coord.", role: "Lead Volunteer", imageUrl: "https://i.pravatar.cc/150?u=6" },
-  { name: "Clinical Liaison", role: "Addis Hospital Contact", imageUrl: "https://i.pravatar.cc/150?u=7" },
-  { name: "Donor Relations", role: "Fundraising Chair", imageUrl: "https://i.pravatar.cc/150?u=8" },
-  { name: "Project Manager", role: "Ethiopia Mission Lead", imageUrl: "https://i.pravatar.cc/150?u=9" },
-  { name: "Strategy Lead", role: "Advisory Board", imageUrl: "https://i.pravatar.cc/150?u=10" }
+  { name: "Lina Kamil", role: "Founder", imageUrl: "https://i.pravatar.cc/150?u=10" },
+  { name: "Ruhama Gidi", role: "Fundraising Lead", imageUrl: "https://i.pravatar.cc/150?u=1" },
+  { name: "Etegenete Mengistu", role: "Fundraising Lead", imageUrl: "https://i.pravatar.cc/150?u=2" },
+  { name: "Daniel Tadesse", role: "Tech lead", imageUrl: "https://i.pravatar.cc/150?u=3" },
+  { name: "Fevan Defere", role: "Marketing Lead", imageUrl: "https://i.pravatar.cc/150?u=4" },
+  { name: "Naomi Haileselassie", role: "Community Engagement", imageUrl: "https://i.pravatar.cc/150?u=5" },
+  { name: "Nazrawit Berhe ", role: "Community Engagement", imageUrl: "https://i.pravatar.cc/150?u=6" },
+  { name: "Raiye Hailu  ", role: "Donation Quality Supply(DSQ)", imageUrl: "https://i.pravatar.cc/150?u=7" },
+  { name: "Arayam Hailu", role: "Donation Quality Supply(DSQ)", imageUrl: "https://i.pravatar.cc/150?u=8" }
 ];
 
 export const PARTNERS: Partner[] = [

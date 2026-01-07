@@ -53,18 +53,18 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-black mb-8 text-white uppercase tracking-widest text-xs border-b border-white/10 pb-2">Active Mission</h4>
             <ul className="space-y-5 text-sm font-bold text-gray-300">
-              <li className="flex items-center space-x-2">
+              {/* <li className="flex items-center space-x-2">
                 <span className="w-1.5 h-1.5 bg-beyond-teal rounded-full"></span>
                 <span>Children’s Heart Fund Ethiopia</span>
-              </li>
+              </li> */}
               <li className="flex items-center space-x-2">
                 <span className="w-1.5 h-1.5 bg-beyond-teal rounded-full"></span>
                 <span>Cardiac Center, Addis Ababa</span>
               </li>
-              <li className="flex items-center space-x-2">
+              {/* <li className="flex items-center space-x-2">
                 <span className="w-1.5 h-1.5 bg-beyond-teal rounded-full"></span>
                 <span>Beloved Mission Partner</span>
-              </li>
+              </li> */}
             </ul>
           </div>
 
@@ -114,11 +114,11 @@ const Footer: React.FC = () => {
 
         <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-[10px] text-gray-400 font-bold uppercase tracking-widest gap-6 text-center">
           <p>© 2026 Beyond Aid Mission. Partnered with Beloved Mission (501c3).</p>
-          <div className="space-x-8">
+          {/* <div className="space-x-8">
             <a href="#" className="hover:text-white transition-colors">Privacy</a>
             <a href="#" className="hover:text-white transition-colors">Terms</a>
             <a href="#" className="hover:text-white transition-colors">Contact</a>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>

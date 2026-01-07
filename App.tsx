@@ -5,7 +5,6 @@ import Hero from './components/Hero';
 import Impact from './components/Impact';
 import DonateSection from './components/DonateSection';
 import AboutUs from './components/AboutUs';
-import MissionAssistant from './components/MissionAssistant';
 import Footer from './components/Footer';
 
 const App: React.FC = () => {
