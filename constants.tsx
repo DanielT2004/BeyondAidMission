@@ -23,7 +23,9 @@ export const TEAM_MEMBERS: TeamMember[] = [
   { name: "Naomi Haileselassie", role: "Community Engagement", imageUrl: "https://i.pravatar.cc/150?u=5" },
   { name: "Nazrawit Berhe ", role: "Community Engagement", imageUrl: "https://i.pravatar.cc/150?u=6" },
   { name: "Raiye Hailu  ", role: "Donation Quality Supply(DSQ)", imageUrl: "https://i.pravatar.cc/150?u=7" },
-  { name: "Arayam Hailu", role: "Donation Quality Supply(DSQ)", imageUrl: "https://i.pravatar.cc/150?u=8" }
+  { name: "Arayam Hailu", role: "Donation Quality Supply(DSQ)", imageUrl: "https://i.pravatar.cc/150?u=8" },
+  { name: "Test Right Now", role: "NewRole", imageUrl: "https://i.pravatar.cc/150?u=8" }
+
 ];
 
 export const PARTNERS: Partner[] = [
